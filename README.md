@@ -7,10 +7,12 @@ The objective of the game is to defeat all the dragons. The player automatically
 
 To aid in your quest, diamonds can be collected and used to teleport the player to a specific position on the board. Use them wisely to gain an advantage and defeat the dragons.
 
+![Alt Text](image_url)
+
 ## How to Play
 - To rotate a block: Left-click on the block to rotate it to the right.
-- To place a treasure on a desired block: Right-click on the block.
 - To move the player at the end of the turn: Press the "space" key.
+- To place a treasure on a desired block: Right-click on the block.
 - To restart the game: Left-click on the "Restart" button or press the "r" key.
 - To return to the main menu: Left-click on the "Back" button or press the "escape" key.
 - To choose a level: Left-click on the arrows (you can also use the arrow keys on your keyboard).
