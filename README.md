@@ -7,7 +7,7 @@ The objective of the game is to defeat all the dragons. The player automatically
 
 To aid in your quest, diamonds can be collected and used to teleport the player to a specific position on the board. Use them wisely to gain an advantage and defeat the dragons.
 
-![Gameplay image](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Gameplay image](https://github.com/antonynavarro/WallisYou/blob/main/images/wallisyou.png~raw=true)
 
 ## How to Play
 - To rotate a block: Left-click on the block to rotate it to the right.
